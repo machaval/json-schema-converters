@@ -1,0 +1,16 @@
+{
+  "name" : "Account",
+  "fields": [
+    {
+      "name" : "f0",
+      "type" : "integer",
+      "label": "asdasd",
+      "defaultValue": "asdasd"
+    },
+    {
+      "name" : "f2",
+      "type" : "string",
+      "label": "asdasd"
+    }
+  ]
+}
